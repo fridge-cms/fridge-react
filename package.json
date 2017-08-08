@@ -1,0 +1,26 @@
+{
+  "name": "fridge-react",
+  "version": "0.0.1",
+  "description": "React components to help integrate Fridge content with your React project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fridge-cms/fridge-react.git"
+  },
+  "author": "Ripeworks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fridge-cms/fridge-react/issues"
+  },
+  "homepage": "https://github.com/fridge-cms/fridge-react#readme",
+  "dependencies": {
+    "hoist-non-react-statics": "^2.2.1",
+    "prop-types": "^15.5.10"
+  },
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0-0 || ^16.0.0-0"
+  }
+}
